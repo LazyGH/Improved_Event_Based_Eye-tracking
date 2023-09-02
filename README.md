@@ -1,5 +1,5 @@
 
-# Application of Event Camera on Near-eye Gaze Tracking
+# Algorithm of Event-Based Near-eye Gaze Tracking
 ## 
 
 This project is mainly about applying event camera on eye tracking, and my work is based on the Angelopoulos 's work *Event Based, Near Eye Gaze Tracking Beyond 10,000 Hz*, and did some improvements. For the technical details of this project, please see the report.pdf file.
