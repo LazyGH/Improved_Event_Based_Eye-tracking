@@ -15,5 +15,6 @@ original github: [event_based_gaze_tracking](https://github.com/aangelopoulos/ev
 
 ###### 
 
+"visualize.py" is from original paper. "point_to_ellipse.py" is from https://github.com/sharnett/point_to_ellipse. 
 
 
