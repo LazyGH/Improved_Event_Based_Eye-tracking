@@ -2,7 +2,7 @@
 # Algorithm of Event-Based Near-eye Gaze Tracking
 ## 
 
-This project is mainly about applying event camera on eye tracking, and my work is based on the Angelopoulos 's work *Event Based, Near Eye Gaze Tracking Beyond 10,000 Hz*, and did some improvements. For the technical details of this project, please see the report.pdf file.
+This project is mainly about applying event camera on eye tracking, and my work is based on the Angelopoulos 's work *Event Based, Near Eye Gaze Tracking Beyond 10,000 Hz*, reproduced and did some improvements on stability and accuracy of eye model fitting and  gaze estimation. For the technical details of this project, please see the report.pdf file.
 
 
 Advisor: Prof. Qilin Sun
