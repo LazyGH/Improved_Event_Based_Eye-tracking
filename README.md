@@ -8,7 +8,7 @@ This project is mainly about applying event camera on eye tracking, and my work 
 Advisor: Prof. Qilin Sun
 
 
-![sample](sample.gif#pic_center)
+<div align="center"><img src="sample.gif" style="zoom:50%" alt="sample"></div>
 
 
 ##### Original paper information:
